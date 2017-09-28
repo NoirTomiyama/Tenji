@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tenji</string>
+    <string name="help">使い方</string>
+    <string name="modeSelect">モード選択</string>
+    <string name="toJ">点字⇒日本語</string>
+    <string name="toB">日本語⇒点字</string>
+    <string name="result">翻訳結果</string>
+    <string name="result_hint">翻訳結果が表示されます</string>
+    <string name="numMode">数字入力中(次に入力する文字から数字になります)</string>
+    <string name="del1">一文字消去</string>
+    <string name="delAll">全消去</string>
+    <string name="edit_hint">点字に翻訳します．</string>
+    <string name="translate">翻訳する</string>
+    <string name="left_text">English</string>
+    <string name="right_text">Japanese</string>
+    <string name="result_japansese">【Tenji -> Japanese】</string>
+
+</resources>
